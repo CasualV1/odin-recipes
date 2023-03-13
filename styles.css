@@ -1,0 +1,37 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.frito {
+    color: black;
+    background-color: red;
+}
+
+.chicken {
+    color: black;
+    background-color: peachpuff;
+}
+
+.eggs {
+    color: black;
+    background-color: yellow;
+}
+
+.scrambled.eggs.image {
+    height: 300px;
+    width: 200px;
+}
+
+.frito.pie.image {
+    height: 300px;
+    width: 400px;
+}
+
+.chicken.rice.image {
+    height: 300px;
+    width: 400px;
+}
+
+p {
+    font-weight: bold;
+}
